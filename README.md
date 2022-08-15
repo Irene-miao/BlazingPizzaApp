@@ -1,4 +1,4 @@
-# Create a blazor application based on Microsoft Learn platform.
+# Create a blazor application based on tutorials on Microsoft Learn platform.
 
 ## Contributing
 
